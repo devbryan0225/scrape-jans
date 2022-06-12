@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterDisruptionFunctionApp", "WaterDisruptionFunctionApp\WaterDisruptionFunctionApp.csproj", "{5E6152A3-F03A-4B2D-9B0F-B0A5B6DC4AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E6152A3-F03A-4B2D-9B0F-B0A5B6DC4AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6152A3-F03A-4B2D-9B0F-B0A5B6DC4AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6152A3-F03A-4B2D-9B0F-B0A5B6DC4AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6152A3-F03A-4B2D-9B0F-B0A5B6DC4AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D88BA5B5-463C-4ECE-9ACD-75768710B80F}
+	EndGlobalSection
+EndGlobal
